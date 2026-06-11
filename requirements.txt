@@ -1,0 +1,37 @@
+# Data collection
+praw
+newsapi-python
+yfinance
+requests
+beautifulsoup4
+apscheduler
+
+# Data processing
+pandas
+numpy
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# NLP / sentiment
+vaderSentiment
+transformers
+
+# Machine learning
+scikit-learn
+xgboost
+tensorflow
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Statistics
+statsmodels
+
+# Utilities
+python-dotenv
+jupyter
