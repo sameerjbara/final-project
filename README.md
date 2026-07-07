@@ -471,6 +471,8 @@ data/processed/sentiment_daily_6tickers.csv
 - Ticker-type classifier — sentiment-driven vs price-driven
 
 ---
+## presentation link
+https://drive.google.com/drive/folders/1S-YTV2dikhpvMsuft8Fw4xDSQfRWRrYF?usp=sharing
 
 ## License
 
